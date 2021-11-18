@@ -1,0 +1,41 @@
+.cocktail-container{
+    background:linear-gradient(230deg, #f01, #fff);
+    color: #000;
+    border-radius:10px;
+    border: 3px solid #ff0;
+    margin:25px;
+    width: 16vw;
+    box-shadow: 3px 3px 5px #f00;
+    padding: 10px;
+    height: 54vh;  
+    text-align: center;
+}
+
+
+
+
+h1.title{
+    font-size: 1.5em;
+    text-align: center;
+    color: #000;
+    margin: 0;
+}
+
+.cocktail-type{
+    font-size: 1.6em;
+    text-align: center;
+    color: #800;
+    margin: 0;
+    font-weight: bold;
+}
+
+
+
+.cocktail-img{
+    width: 66%;
+    height: 50%;
+    border-radius: 5%;
+    text-align: center;
+    margin: 2px auto;
+}
+

@@ -1,0 +1,21 @@
+Ciao a tutti!
+Facciamo un progetto "reale" - The Cocktail DB search engine
+Creiamo una web-app dove avremo una home introduttiva (tipo landing page) 
+e poi una pagina con una ricerca di cocktail 
+
+- Text input di ricerca + bottone "cerca" (lo fate con il formik)
+
+- Elenco dei cocktail
+
+Poi creiamo una pagina "single cocktail dove andiamo a vedere il dettaglio del singolo cocktail"
+
+L'api è:
+
+https://www.thecocktaildb.com/api/json/v1/1/lookup.php?i=11007
+
+Se riuscite mettere l'ID dinamico altrimenti mettetelo fisso 
+
+
+**** Note aggiuntive gruppo:
+
+www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita

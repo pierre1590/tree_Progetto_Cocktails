@@ -1,0 +1,26 @@
+body{
+    background-color: #FAD961;
+    background-image: linear-gradient(2deg, #FAD961 0%, #F76B1C 100%);
+    min-height: 100vh;
+}
+
+.container-drink{
+    text-align: center;
+    width: 60%;
+    margin: 8% 15%;
+    background: #fff;
+    border-radius: 15px;
+    height: 70vh;
+}
+
+.img-drink{
+    width: 30%;
+    height: 40%;
+    border-radius: 15%;
+}
+
+.list-ingredients{
+    width: 100%;
+    text-align: center;
+    list-style-type: none;
+}

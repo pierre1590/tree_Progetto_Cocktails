@@ -1,0 +1,8 @@
+.list-bd {
+    background-color: #FAD961;
+    background-image: linear-gradient(2deg, #FAD961 0%, #F76B1C 100%);
+    min-height: 100vh;
+    font-family: 'Sora', sans-serif;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
