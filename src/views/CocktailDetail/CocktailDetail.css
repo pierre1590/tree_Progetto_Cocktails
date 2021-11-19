@@ -11,6 +11,7 @@ body{
     background: #fff;
     border-radius: 15px;
     height: 70vh;
+    box-shadow: 3px 3px 5px #f20;
 }
 
 .img-drink{
