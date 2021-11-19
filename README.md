@@ -1,4 +1,12 @@
-
+# Installation 
+1) Clone the repository with the following command:
+`git clone https://github.com/pierre1590/tree_Progetto_Cocktails.git`
+2) Go to the folder with the following command:
+`cd tree_Progetto_Cocktails`
+3) Run the following command to install the dependencies:
+`yarn`
+4) Run the following command to start the server:
+`yarn start`
 
 
 # Getting Started with Create React App
