@@ -38,9 +38,11 @@ export default function Home(){
             List
         </div>
         <div style={{display:'flex',flexDirection:'row',flexWrap:'wrap',flexGrow:'grow'}}>
-            {ClientApi.data?.map((drink, index)=>{
+       {(ClientApi.data == undefined) ? (<h1>No results</h1>) : (
+        ClientApi.data?.map((drink, index)=>{
               return<CocktailCard drink={drink} index={index}/>
-            })}
+        })  
+        )}
         </div>
       </main>
   </div>
