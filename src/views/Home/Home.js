@@ -37,7 +37,7 @@ export default function Home(){
         <div>
             List
         </div>
-        <div style={{display:'flex',flexDirection:'row',flexWrap:'wrap',flexGrow:'grow'}}>
+        <div style={{display:'flex',flexDirection:'row',flexWrap:'wrap',flexGrow:'grow'}} className="results">
        {(ClientApi.data == undefined) ? (<h1>No results</h1>) : (
         ClientApi.data?.map((drink, index)=>{
               return<CocktailCard drink={drink} index={index}/>

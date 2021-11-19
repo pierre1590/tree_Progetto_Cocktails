@@ -43,10 +43,11 @@ return <div>
                             <li>{cocktail.drinks[0].strIngredient1}</li>
                             <li>{cocktail.drinks[0].strIngredient2}</li>    
                             <li>{cocktail.drinks[0].strIngredient3}</li>
+                            <li>{cocktail.drinks[0].strIngredient4}</li>
+                            <li>{cocktail.drinks[0].strIngredient5}</li>
                          </ul>
                         <h2>Istruzioni</h2>
-                        <p>{cocktail.drinks[0].strInstructionsIT}</p>
-                        
+                        <p className="Instructions">{cocktail.drinks[0].strInstructionsIT}</p>
                     </div>
                 </div> 
             )}
