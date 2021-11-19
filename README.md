@@ -13,7 +13,8 @@ yarn
 ```
 4) Run the following command to start the server:
 ```
-yarn start```
+yarn start
+```
 
 
 # Getting Started with Create React App
