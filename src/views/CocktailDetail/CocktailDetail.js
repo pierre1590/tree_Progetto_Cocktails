@@ -3,6 +3,7 @@ import axios from "axios";
 import {Link,useParams} from 'react-router-dom';
 import './CocktailDetail.css';
 import {Button} from '@material-ui/core'
+import Footer from '../../components/Footer/Footer'
 
 const DrinkDetail = () => {
 
@@ -51,6 +52,7 @@ return <div>
                     </div>
                 </div> 
             )}
+            <Footer className="footer"/>
     </div>                 
 
 }

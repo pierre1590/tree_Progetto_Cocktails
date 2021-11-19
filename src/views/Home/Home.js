@@ -4,7 +4,7 @@ import { Formik, Field, Form } from 'formik';
 import { Button } from '@material-ui/core'
 import useClientApi from '../../ClientApi/useClientApi';
 import CocktailCard from '../../components/CocktailCard/CocktailCard';
-
+import Footer from '../../components/Footer/Footer';
 
 export default function Home(){
 
@@ -46,6 +46,9 @@ export default function Home(){
         }
         </div>
       </main>
+      <div className="home-footer">
+          <Footer/>
+      </div>
   </div>
-
+ 
 }
