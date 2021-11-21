@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/4J1VVVp/Cocktails-DB-Search.jpg" alt="Cocktails-DB-Search" width="800" height="300">
+<img src="https://i.ibb.co/4J1VVVp/Cocktails-DB-Search.jpg" alt="Cocktails-DB-Search" width="800" height="350">
 
 
 # Installation 
