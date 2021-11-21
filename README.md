@@ -1,3 +1,6 @@
+[img]https://i.ibb.co/4J1VVVp/Cocktails-DB-Search.jpg[/img]
+
+
 # Installation 
 1) Clone the repository with the following command:
 ``` 
