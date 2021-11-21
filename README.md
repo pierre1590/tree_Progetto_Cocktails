@@ -1,5 +1,17 @@
 <img src="https://i.ibb.co/4J1VVVp/Cocktails-DB-Search.jpg" alt="Cocktails-DB-Search" width="800" height="350">
 
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About the project</a>
+    </li>
+    <li><a href=#installation>Installation</a></li>
+  </ol>
+</details>
+
+# About the project
+The project is a simple web application that allows users to search for cocktails by letter.
 
 # Installation 
 1) Clone the repository with the following command:
