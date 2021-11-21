@@ -11,7 +11,7 @@
 </details>
 
 # About the project
-The project is a simple web application that allows users to search for cocktails by letter.
+The project is a simple web application that allows users to search for cocktails by letter and then if a user click on button "More info" it will show the cocktail's name, image, ingredients and instructions.
 
 # Installation 
 1) Clone the repository with the following command:
